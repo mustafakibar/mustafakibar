@@ -11,9 +11,9 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-I have been a full-stack developer since 2011, specializing in designing and implementing scalable, error-tolerant, and user-centric applications. Proficient in Rust, Kotlin, React, React Native, and Flutter, I am deeply committed to clean code practices and adherence to industry-leading design principles. 
+I have been a full-stack developer since 2011, specializing in designing and implementing scalable, error-tolerant, and user-centric applications. Proficient in Rust, Kotlin, React, React Native, and Flutter.
 
-Known for continuously adapting to evolving technologies, I strive to deliver innovative solutions that align with both technical and business objectives.
+Experienced with every step of developing and delivering cross-platform, robust, responsive, scalable, maintainable, testable providing end-users the best experience I can. Passionate about solving complex problems and staying up-to-date with the latest development trends.
 
 ___
 
