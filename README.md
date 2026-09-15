@@ -23,4 +23,4 @@ I enjoy making applications that make users' daily tasks easier and continuously
 
 
 ___
-[Twitter](https://twitter.com/kibarpro) - [Website](https://kibar.pro) - [Resume](https://kibar.pro/resume)
+[Website](https://kibar.pro) - [Resume](https://kibar.pro/resume)
